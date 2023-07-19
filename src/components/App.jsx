@@ -11,7 +11,6 @@ export const App = () => {
         avatar={user.avatar}
         stats={user.stats}
       />
-      React homework template
     </div>
   );
 };
