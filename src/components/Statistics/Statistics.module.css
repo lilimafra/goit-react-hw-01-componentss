@@ -1,8 +1,8 @@
 .statistics {
   display: block;
   width: 350px;
-  margin-left: 50px;
-  margin-top: 50px;
+  margin: auto;
+  margin-top: 70px;
   border-radius: 25px;
 }
 

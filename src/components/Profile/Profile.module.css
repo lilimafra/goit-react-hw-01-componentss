@@ -3,7 +3,8 @@
   width: 350px;
   background-color: #ffff;
   border-radius: 5px;
-  margin: 10px 50px;
+  margin: auto;
+  margin-top: 50px;
   padding-top: 30px;
   border: 1px #366e91 solid;
 }
