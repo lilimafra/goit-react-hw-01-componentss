@@ -61,12 +61,12 @@
 
 .tag,
 .location {
-  color: var(--color-text-grey);
+  color: #67696b;
   font-size: 15px;
 }
 
 .label {
-  color: var(--color-text-grey);
+  color: #67696b;
   font-size: 13px;
   line-height: 0.8;
 }
